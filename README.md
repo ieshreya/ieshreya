@@ -55,13 +55,13 @@ I also tweet about Web development, UI/UX and Python and my aim is to help begin
 ---
 #### ⭐ Profile Stats and Languages
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyalive&count_private=true&show_icons=true&theme=buefy&langs_count=10" alt="shreyalive" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyalive&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="shreyalive" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shreyalive&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" alt="shreyalive" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyalive&hide=jupyter%20notebook,html,css&langs_count=10&layout=compact&theme=buefy" alt="shreyalive" height="165" />
  </p>
 
 
-## [Shreya Purohit](https://shreyalive.gitbook.io/shreki/)     
-
+## [Shreya Purohit: Visit Shreki ](https://shreyalive.gitbook.io/shreki/)     
+(currently in development!)
 
 ## [Tech Blog](https://designctivity.hashnode.dev/)   
 
