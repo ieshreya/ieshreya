@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, thanks for the visit! <img src="https://github.com/shreyalive/shreyalive/blob/main/%40shreyalive-assets/hand-wave.gif" width="24px"></h1>
-<h1 align="center"> I am </h1>
+<h1 align="center">:woman_technologist: I am 	</h1>
 <img src="https://github.com/shreyalive/shreyalive/blob/main/%40shreyalive-assets/shreya-name-video.gif" >
    
 
@@ -25,7 +25,9 @@ If I had to define myself in words, that'd be:
 I am a Biotechnology undergrad and an aspiring data scientist.
 I have an personal blogroll called "Shreki" where I share every progress and work publicly as it helps me on sticking to my commitments. *"Studies shows that people tend to complete whatever they said they will do if they made a public announcement about it."*
 
-I also tweet about Web development, UI/UX and Python and my aim is to help beginners by creating short threads on twitter. I write *everything I do, books I read, my book notes , projects I do, etc.* on my **personal productivity blogroll** called [**Sheki**](https://shreyalive.gitbook.io/shreki/). If you're interested you can visit [here](https://shreyalive.gitbook.io/shreki/). :)
+I also tweet about Web development, UI/UX and Python and my aim is to help beginners by creating short threads on twitter. You can follow me here: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/shreyalivee.svg?style=social&label=Follow%20%40shreyalivee)](https://twitter.com/shreyalivee)
+
+I write *everything I do, books I read, my book notes , projects I do, etc.* on my **personal productivity blogroll** called [**Sheki**](https://shreyalive.gitbook.io/shreki/) :baby_chick:	. If you're interested you can visit [here](https://shreyalive.gitbook.io/shreki/). :)
 
 - 🔭 I’m currently working on [my personal productivity blog-roll](https://shreyalive.gitbook.io/shreki/)
 
@@ -33,11 +35,11 @@ I also tweet about Web development, UI/UX and Python and my aim is to help begin
 
 - 📫 Visit my tech blog-roll [**here**](https://shreyalive.gitbook.io/shreki/)
 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25"/>
 
 ---
 
-#### 💻 My tech Stacks
+#### 💻 My tech Stacks:
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -49,10 +51,25 @@ I also tweet about Web development, UI/UX and Python and my aim is to help begin
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
+
 
 </p>
 
+#### :earth_asia: On Web:
+
+<p align="center">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25"/>   
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>   
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>   
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/>   
+</p>   
+
 ---
+
 #### ⭐ Profile Stats and Languages
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=shreyalive&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" alt="shreyalive" width="420"/> 
@@ -60,10 +77,10 @@ I also tweet about Web development, UI/UX and Python and my aim is to help begin
  </p>
 
 
-## [Shreya Purohit: Visit Shreki ](https://shreyalive.gitbook.io/shreki/)     
-(currently in development!)
+## [Shreya Purohit: Visit Shreki :house_with_garden:	](https://shreyalive.gitbook.io/shreki/)     
+(currently in development! :construction:)
 
-## [Tech Blog](https://designctivity.hashnode.dev/)   
+## [Tech Blog :wave:	](https://designctivity.hashnode.dev/)   
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
