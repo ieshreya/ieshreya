@@ -33,7 +33,7 @@ I write *everything I do, books I read, my book notes , projects I do, etc.* on 
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 Visit my tech blog-roll [**here**](https://shreyalive.gitbook.io/shreki/)
+- 📫 Visit my tech blog [**here**](https://designctivity.hashnode.dev/)
 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25"/>
 
