@@ -7,7 +7,7 @@
  
 [![Profile visited](https://visitor-badge.glitch.me/badge?page_id=shreyalive.visitor-badge)](https://github.com/shreyalive)
 [![Linkedin Badge](https://img.shields.io/badge/-Shreya%20Purohit-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shreya-purohit/)](https://www.linkedin.com/in/shreya-purohit) 
-[![Twitter Badge](http://img.shields.io/badge/-@shreyalivee-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/shreyalivee)](https://twitter.com/shreyalivee) 
+[![Twitter Badge](http://img.shields.io/badge/-@eyeshreya-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/eyeshreya)](https://twitter.com/eyeshreya) 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/shreyalive/)
 [![GitHub followers](https://img.shields.io/github/followers/shreyalive?label=Follow&style=social&logoColor=red)](https://github.com/shreyalive/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-shreyaaa._.2-blue?style=social&logo=Instagram&link=https://www.instagram.com/shreyaaa._.2/)](https://www.instagram.com/shreyaaa._.2/) 
