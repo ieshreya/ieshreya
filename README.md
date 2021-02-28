@@ -25,7 +25,8 @@ If I had to define myself in words, that'd be:
 I am a Biotechnology undergrad and an aspiring data scientist.
 I have an personal blogroll called "Shreki" where I share every progress and work publicly as it helps me on sticking to my commitments. *"Studies shows that people tend to complete whatever they said they will do if they made a public announcement about it."*
 
-I also tweet about Web development, UI/UX and Python and my aim is to help beginners by creating short threads on twitter. You can follow me here: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/shreyalivee.svg?style=social&label=Follow%20%40shreyalivee)](https://twitter.com/shreyalivee)
+I also tweet about Web development, UI/UX and Python and my aim is to help beginners by creating short threads on twitter. You can follow me here: [![Twitter Badge](http://img.shields.io/badge/-@eyeshreya-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/eyeshreya)](https://twitter.com/eyeshreya) 
+
 
 I write *everything I do, books I read, my book notes , projects I do, etc.* on my **personal productivity blogroll** called [**Sheki**](https://shreyalive.gitbook.io/shreki/) :baby_chick:	. If you're interested you can visit [here](https://shreyalive.gitbook.io/shreki/). :)
 
