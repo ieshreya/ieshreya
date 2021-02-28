@@ -30,7 +30,7 @@ I also tweet about Web development, UI/UX and Python and my aim is to help begin
 
 I write *everything I do, books I read, my book notes , projects I do, etc.* on my **personal productivity blogroll** called [**Sheki**](https://shreyalive.gitbook.io/shreki/) :baby_chick:	. If you're interested you can visit [here](https://shreyalive.gitbook.io/shreki/). :)
 
-- 🔭 I’m currently working on [my personal productivity blog-roll](https://shreyalive.gitbook.io/shreki/)
+- 🔭 I’m currently working on my personal productivity blog-roll.
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -79,7 +79,7 @@ I write *everything I do, books I read, my book notes , projects I do, etc.* on 
  </p>
 
 
-## [Shreya Purohit: Visit Shreki :house_with_garden:	](https://shreyalive.gitbook.io/shreki/)     
+## Visit Shreki :house_with_garden: 
 (currently in development! :construction:)
 
 ## [Tech Blog :wave:	](https://designctivity.hashnode.dev/)   
