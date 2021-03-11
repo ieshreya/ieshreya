@@ -91,6 +91,6 @@ I write *everything I do, books I read, my book notes , projects I do, etc.* on 
 ---
 
 ![](https://hit.yhype.me/github/profile?user_id=63795399)
-<p align="center"> 
+<!--<p align="center"> 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyalive&theme=default" alt="shreyalive" height="165" />
-</p>
+</p> -->
