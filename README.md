@@ -24,6 +24,9 @@ I am **Shreya Purohit**.
 - 📫 Visit my tech blog [**here**](https://dev.to/shreya/)
 
  
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 #### 💻 My tech Stacks:
@@ -50,10 +53,10 @@ I am **Shreya Purohit**.
 #### :earth_asia: On Web:
 
 <p align="center">
-<a href="https://designctivity.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25"/></a>
-<a href="https://www.linkedin.com/in/shreya-purohit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a> 
-<a href="https://github.com/ieshreya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/></a>   
-<a href="https://www.twitter.com/eyeshreya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  height="25"/></a>   
+ <a href="https://dev.to/shreya"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="25"/></a>
+<a href="https://www.twitter.com/eyeshreya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  height="25"/></a> 
+ <a href="https://github.com/ieshreya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> 
+
 </p>   
 
 ---
@@ -65,8 +68,9 @@ I am **Shreya Purohit**.
  </p>
 
 
-## [Tech Blog :wave:	](https://designctivity.hashnode.dev/)   
-
+### 🥤 Tech Blog 
+I write blogs covering web development topics such as Javascript, React and CSS on my blog. Feel free to check it out over [DEV.to](https://dev.to/shreya)   
+ 
 
 ![](https://hit.yhype.me/github/profile?user_id=63795399)
 <!--<p align="center"> 
