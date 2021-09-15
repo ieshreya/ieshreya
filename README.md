@@ -74,8 +74,8 @@ I write *everything I do, books I read, my book notes , projects I do, etc.* on 
 
 #### ⭐ Profile Stats and Languages
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ieshreya&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" alt="shreyalive" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieshreya&hide=jupyter%20notebook,html,css&langs_count=10&layout=compact&theme=buefy" alt="shreyalive" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ieshreya&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true" alt="ieshreya" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieshreya&hide=jupyter%20notebook,html,css&langs_count=10&layout=compact&theme=prussian" alt="ieshreya" height="165" />
  </p>
 
 
