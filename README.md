@@ -1,6 +1,5 @@
-<h1 align="center">Hey there, thanks for the visit! <img src="https://github.com/shreyalive/shreyalive/blob/main/%40shreyalive-assets/hand-wave.gif" width="24px"></h1>
-<h1 align="center">👓 I am Shreya	</h1>
-<!-- <img src="https://github.com/shreyalive/shreyalive/blob/main/%40shreyalive-assets/shreya-name-video.gif" > -->
+<h1 align="center">Hey, I am Shreya 👋 </h1>
+ <!-- <img src="https://github.com/shreyalive/shreyalive/blob/main/%40shreyalive-assets/shreya-name-video.gif" > -->
    
 
 <div align="center">
@@ -14,7 +13,6 @@
 
 </div>
  
- ---
 I am **Shreya Purohit**.
 
 <!-- I write *everything I do, books I read, my book notes , projects I do, etc.* on my **personal productivity blogroll** called [**Sheki**](https://shreyalive.gitbook.io/shreki/) :baby_chick:	. If you're interested you can visit [here](https://shreyalive.gitbook.io/shreki/). :) -->
@@ -69,8 +67,6 @@ I am **Shreya Purohit**.
 
 ## [Tech Blog :wave:	](https://designctivity.hashnode.dev/)   
 
-
----
 
 ![](https://hit.yhype.me/github/profile?user_id=63795399)
 <!--<p align="center"> 
