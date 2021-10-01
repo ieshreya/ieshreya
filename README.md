@@ -25,6 +25,13 @@ I am **Shreya Purohit**.
 
  
  <!--START_SECTION:waka-->
+```text
+CSS          5 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   47.18 % 
+JavaScript   4 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   34.86 % 
+JSX          53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+HTML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+```
 <!--END_SECTION:waka-->
 
 ---
