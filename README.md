@@ -24,15 +24,7 @@ I am **Shreya Purohit**.
 - 📫 Visit my tech blog [**here**](https://dev.to/shreya/)
 
  
- <!--START_SECTION:waka-->
-```text
-CSS          5 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   47.18 % 
-JavaScript   4 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   34.86 % 
-JSX          53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-HTML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-```
-<!--END_SECTION:waka-->
+
 
 ---
 
@@ -80,5 +72,8 @@ I write blogs covering web development topics such as Javascript, React and CSS 
 <!--<p align="center"> 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ieshreya&theme=default" alt="shreyalive" height="165" />
 </p> -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
