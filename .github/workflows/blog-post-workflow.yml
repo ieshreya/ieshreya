@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        max_post_count: "4"
-        template: $randomEmoji
+      - uses: gautamkrishnar/blog-post-workflow@master 
+          
         with:
+          template: "$newline - $randomEmoji(🎉,👀,🧠,🎃,🚀) $title $url"
+          max_post_count: "4"
           feed_list: "https://dev.to/feed/shreya, https://medium.com/feed/@ishreya"
-  
