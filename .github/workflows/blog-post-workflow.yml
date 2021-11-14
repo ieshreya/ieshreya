@@ -15,3 +15,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/shreya, https://medium.com/feed/@ishreya"
+          template: "$newline - $randomEmoji(🎉,👀,🧠,🎃,🚀)  [$title]($url)"
