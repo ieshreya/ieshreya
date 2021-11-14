@@ -16,5 +16,5 @@ jobs:
         max_post_count: "4"
         template: $randomEmoji
         with:
-          feed_list: "https://dev.to/feed/shreya, https://medium.com/feed/@ishreya, https://@eyeshreya.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/shreya, https://medium.com/feed/@ishreya"
   
