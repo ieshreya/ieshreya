@@ -56,17 +56,21 @@ I am **Shreya Purohit**.
 </p>   
 
 ---
-
+<!-- 
 #### ⭐ Profile Stats and Languages
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=ieshreya&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true" alt="ieshreya" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieshreya&hide=jupyter%20notebook,html,css&langs_count=10&layout=compact&theme=prussian" alt="ieshreya" height="165" />
  </p>
-
+ -->
 
 ### 🥤 Tech Blog 
 I write blogs covering web development topics such as Javascript, React and CSS on my blog. Feel free to check it out over [DEV.to](https://dev.to/shreya)   
- 
+
+### 📑 Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ![](https://hit.yhype.me/github/profile?user_id=63795399)
 <!--<p align="center"> 
