@@ -71,6 +71,10 @@ I write blogs covering web development topics such as Javascript, React and CSS 
 
 ### 📑 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ES6 Handbook: Everything You Need to Know](https://dev.to/shreya/es6-handbook-everything-you-need-to-know-1ea7)
+- [Zuri Internship — My Goals &amp; Expectations](https://ishreya.medium.com/zuri-internship-my-goals-expectations-ca07a4c02835?source=rss-84377fd81e78------2)
+- [10+ Ways To Make Side Income Online as a Developer](https://dev.to/shreya/10-ways-to-make-side-income-online-as-a-developer-hl8)
+- [70+ Awesome Free Resources To Learn JavaScript](https://dev.to/shreya/70-awesome-free-resources-to-learn-javascript-2h4o)
 <!-- BLOG-POST-LIST:END -->
 
 
