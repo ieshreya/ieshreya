@@ -67,6 +67,8 @@ I am **Shreya Purohit**.
 ### 🥤 Tech Blog 
 I write blogs covering web development topics such as Javascript, React and CSS on my blog. Feel free to check it out over [DEV.to](https://dev.to/shreya)   
 
+---
+
 ### 📑 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
