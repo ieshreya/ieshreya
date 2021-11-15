@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/shreya, https://medium.com/feed/@ishreya"
+          feed_list: "https://dev.to/feed/shreya"
           template: "$newline - $randomEmoji(🎉,👀,🧠,🎃,🚀)  [$title]($url)"
