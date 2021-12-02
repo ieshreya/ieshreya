@@ -83,10 +83,8 @@ I write blogs covering web development topics such as Javascript, React and CSS 
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   12 mins         ████████████████▓░░░░░░░░   66.15 % 
-Other      2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-CSS        1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-JSON       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Other                 2 mins          █████████████▒░░░░░░░░░░░   53.22 % 
+JSON                  1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.97 % 
 ```
 <!--END_SECTION:waka-->
 
