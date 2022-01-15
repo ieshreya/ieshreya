@@ -86,14 +86,14 @@ I write blogs covering web development topics such as Javascript, React and CSS 
 </p> -->
 
 <!--START_SECTION:waka-->
-
 ```text
-JavaScript   2 hrs 43 mins   █████████████▒░░░░░░░░░░░   53.72 % 
-HTML         1 hr 57 mins    █████████▓░░░░░░░░░░░░░░░   38.58 % 
-CSS          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-```
+Week: 08 January, 2022 - 14 January, 2022
 
+JavaScript   2 hrs 43 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.72 % 
+HTML         1 hr 57 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.58 % 
+CSS          15 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.13 % 
+JSON         7 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.58 % 
+```
 <!--END_SECTION:waka-->
 
 
