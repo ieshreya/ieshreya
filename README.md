@@ -26,8 +26,6 @@ I am **Shreya Purohit**.
  
 
 
----
-
 #### 💻 My tech Stacks:
 
 <p align="center">
@@ -55,7 +53,7 @@ I am **Shreya Purohit**.
 
 </p>   
 
----
+ 
 <!-- 
 #### ⭐ Profile Stats and Languages
 <p align="center"> 
@@ -67,7 +65,6 @@ I am **Shreya Purohit**.
 ### 🥤 Tech Blog 
 I write blogs covering web development topics such as Javascript, React and CSS on my blog. Feel free to check it out over [DEV.to](https://dev.to/shreya)   
  
----
 
 ### 📑 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
