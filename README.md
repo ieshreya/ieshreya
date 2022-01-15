@@ -16,13 +16,13 @@
 I am **Shreya Purohit**.
 
 <!-- I write *everything I do, books I read, my book notes , projects I do, etc.* on my **personal productivity blogroll** called [**Sheki**](https://shreyalive.gitbook.io/shreki/) :baby_chick:	. If you're interested you can visit [here](https://shreyalive.gitbook.io/shreki/). :) -->
-
+```
 - 🔭 I’m currently working on my blogs.
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning full stack web development.
 
-- 📫 Visit my tech blog [**here**](https://dev.to/shreya/)
-
+- 📫 Technical Writing on web development and design.
+```
  
 
 
@@ -63,10 +63,10 @@ I am **Shreya Purohit**.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieshreya&hide=jupyter%20notebook,html,css&langs_count=10&layout=compact&theme=prussian" alt="ieshreya" height="165" />
  </p>
  -->
-
+ 
 ### 🥤 Tech Blog 
 I write blogs covering web development topics such as Javascript, React and CSS on my blog. Feel free to check it out over [DEV.to](https://dev.to/shreya)   
-
+ 
 ---
 
 ### 📑 Recent Blog posts
@@ -83,12 +83,15 @@ I write blogs covering web development topics such as Javascript, React and CSS 
 </p> -->
 
 <!--START_SECTION:waka-->
+
 ```text
+
 JavaScript   2 hrs 43 mins   █████████████▒░░░░░░░░░░░   53.72 % 
 HTML         1 hr 57 mins    █████████▓░░░░░░░░░░░░░░░   38.58 % 
 CSS          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
+
 <!--END_SECTION:waka-->
 
 
