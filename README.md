@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I am Shreya 👋 </h1>
+<h2 align="center">Hey, I am Shreya 👋 </h2>
  <!-- <img src="https://github.com/shreyalive/shreyalive/blob/main/%40shreyalive-assets/shreya-name-video.gif" > -->
    
 
 <div align="center">
  
-[![Profile visited](https://visitor-badge.glitch.me/badge?page_id=shreyalive.visitor-badge)](https://github.com/ieshreya)
+[![Profile visited](https://visitor-badge.glitch.me/badge?page_id=shreyalive.visitor-badge&left_color=darkviolet&right_color=indigo)](https://github.com/ieshreya)
 [![Linkedin Badge](https://img.shields.io/badge/-Shreya%20Purohit-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shreya-purohit/)](https://www.linkedin.com/in/shreya-purohit) 
 [![Twitter Badge](http://img.shields.io/badge/-@eyeshreya-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/eyeshreya)](https://twitter.com/eyeshreya)
 
