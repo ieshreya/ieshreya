@@ -6,7 +6,7 @@
  
 [![Profile visited](https://visitor-badge.glitch.me/badge?page_id=shreyalive.visitor-badge&left_color=darkviolet&right_color=indigo)](https://github.com/ieshreya)
 [![Linkedin Badge](https://img.shields.io/badge/-Shreya%20Purohit-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shreya-purohit/)](https://www.linkedin.com/in/shreya-purohit) 
-[![Twitter Badge](http://img.shields.io/badge/-@eyeshreya-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/eyeshreya)](https://twitter.com/eyeshreya)
+ <p> <a href="https://twitter.com/eyeshreya target="_blank"><img src="https://img.shields.io/twitter/follow/eyeshreya?logo=twitter&style=for-the-badge" alt="eyeshreya" /></a></p>
 
 <!-- [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/shreyalive/) -->
 <!-- [![GitHub followers](https://img.shields.io/github/followers/ieshreya?label=Follow&style=social&logoColor=red)](https://github.com/ieshreya/?tab=follow) -->
@@ -16,7 +16,6 @@
  
 I am **Shreya Purohit**.
 
-<!-- I write *everything I do, books I read, my book notes , projects I do, etc.* on my **personal productivity blogroll** called [**Sheki**](https://shreyalive.gitbook.io/shreki/) :baby_chick:	. If you're interested you can visit [here](https://shreyalive.gitbook.io/shreki/). :) -->
 ```
 - 🔭 I’m currently working on my blogs.
 
@@ -45,10 +44,9 @@ I am **Shreya Purohit**.
 #### :earth_asia: On Web:
 
 <p align="center">
- <a href="https://dev.to/shreya"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="25"/></a>
-<a href="https://www.twitter.com/eyeshreya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  height="25"/></a> 
- <a href="https://github.com/ieshreya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> 
-
+<a href="https://designctivity.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25"/></a> 
+  <a href="https://dev.to/shreya"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="25"/></a>
+<a href="https://shry.gumroad.com/"><img src="https://camo.githubusercontent.com/75929933b118bbbfd63b9637f914aa771c3bba01317566a3a3c5254b725a7ecb/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47756d726f616426636f6c6f723d333641394145266c6f676f3d47756d726f6164266c6f676f436f6c6f723d464646464646266c6162656c3d"  height="25"/></a> 
 </p>   
 
  
