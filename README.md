@@ -6,7 +6,7 @@
  
 [![Profile visited](https://visitor-badge.glitch.me/badge?page_id=shreyalive.visitor-badge&left_color=darkviolet&right_color=indigo)](https://github.com/ieshreya)
 [![Linkedin Badge](https://img.shields.io/badge/-Shreya%20Purohit-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shreya-purohit/)](https://www.linkedin.com/in/shreya-purohit) 
- <p> <a href="https://twitter.com/eyeshreya target="_blank"><img src="https://img.shields.io/twitter/follow/eyeshreya?logo=twitter&style=for-the-badge" alt="eyeshreya" /></a></p>
+ <p> <a href="https://twitter.com/eyeshreya" target="_blank"><img src="https://img.shields.io/twitter/follow/eyeshreya?logo=twitter&style=for-the-badge" alt="eyeshreya" /></a></p>
 
 <!-- [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/shreyalive/) -->
 <!-- [![GitHub followers](https://img.shields.io/github/followers/ieshreya?label=Follow&style=social&logoColor=red)](https://github.com/ieshreya/?tab=follow) -->
