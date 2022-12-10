@@ -17,17 +17,18 @@
 I am **Shreya Purohit**.
 
 ```
-- 🔭 I’m currently working on my blogs.
+- 🔭 I’m currently working on my portfolio website.
 
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I’m currently learning data science and analytics.
 
-- 📫 Technical Writing on web development and design.
+- 📫 Technical Writing in my free time.
 ```
  
 
 
 #### 💻 My tech Stacks:
 
+<!--
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
@@ -35,7 +36,7 @@ I am **Shreya Purohit**.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>   
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-  
+-->
 
 
 
