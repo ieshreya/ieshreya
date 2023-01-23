@@ -1,6 +1,6 @@
 <!-- [![Profile visited](https://visitor-badge.glitch.me/badge?page_id=shreyalive.visitor-badge&left_color=darkviolet&right_color=indigo)](https://github.com/ieshreya)
  -->
-#### 👋 Hi, I am **Shreya Purohit** 
+#### 👋 Hi, I am **Shreya Purohit**. 
 - 🔭 I’m currently working on **my portfolio.**
 - 🌱 Currently learning: **Data Viz & Machine learning.**
 - 🧠 I’m looking to collaborate on **technical articles.** 
@@ -15,7 +15,7 @@ _Python | SQL | Tableau | Web scraping_
  - 🐻 **Interests:** R, Machine learning and web design
 
 #### 🌍 Find me on web
-- 🐤 [Twitter](https://twitter.com/eyeshreya): Where I share threads on data w/ 14K+ people.
+- 🐤 [@eyeshreya](https://twitter.com/eyeshreya): Where I share threads on data w/ 14K+ people.
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreya-purohit/): That I use to connect with professionals.
 - 📝 [Hashnode](designctivity.hashnode.dev): Where I write everything related to data.
 - 👩‍💻 [Portfolio Website](https://shreyapurohit.now.sh): That is currently a WIP
