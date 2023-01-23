@@ -24,6 +24,6 @@ _Python | SQL | Tableau | Web scraping_
 #### 📑 Recent Posts
 <!-- BLOG-POST-LIST:START -->
  - 👀  [Exploratory Data Analysis: A Step-by-Step Approach](https://dev.to/shreya/exploratory-data-analysis-a-step-by-step-approach-11dd)
- - 🎉  [Learn data analysis for free from YouTube - Study Plan](https://dev.to/shreya/learn-data-analysis-for-free-from-youtube-study-plan-l5g)
+ - 🎉  [Learn data analysis for free - A Study Plan](https://dev.to/shreya/learn-data-analysis-for-free-from-youtube-study-plan-l5g)
  - 🎃  [Resources that will help you get started as a Technical Writer](https://dev.to/shreya/resources-that-will-can-help-you-get-started-as-a-technical-writer-l72)
  - 🎉  [Learn TailwindCSS: Make A Profile Card](https://dev.to/shreya/learn-tailwindcss-make-a-profile-card-597d)<!-- BLOG-POST-LIST:END -->
