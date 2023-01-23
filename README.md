@@ -27,5 +27,4 @@ _Python | SQL | Tableau | Web scraping_
  - 🎃  [How to setup Tailwind in your project](https://dev.to/shreya/how-to-setup-tailwind-in-your-project-3075)
  - 🎉  [ES6 Handbook: Everything You Need to Know](https://dev.to/shreya/es6-handbook-everything-you-need-to-know-1ea7)
   
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
