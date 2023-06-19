@@ -15,12 +15,14 @@ _Python | SQL | Tableau | Web scraping_
  - 🐻 **Interests:** R, Machine learning and web design
 
 #### 🌍 Find me on web
-- 🐤 [@eyeshreya](https://twitter.com/eyeshreya): Where I share threads on data w/ 14K+ people.
+[@eyeshreya](https://twitter.com/eyeshreya) | [LinkedIn](https://www.linkedin.com/in/shreya-purohit/) | [Hashnode](designctivity.hashnode.dev) | [Portfolio](https://shreyapurohit.now.sh)
+
+<!--- - 🐤 [@eyeshreya](https://twitter.com/eyeshreya): Where I share threads on data w/ 14K+ people.
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreya-purohit/): That I use to connect with professionals.
 - 📝 [Hashnode](designctivity.hashnode.dev): Where I write everything related to data.
 - 👩‍💻 [Portfolio Website](https://shreyapurohit.now.sh): That is currently a WIP
 - 🚀 [Gumroad](https://shry.gumroad.com/): Where I curate, build & share digital products.
-
+--->
 #### 📑 Recent Posts
 <!-- BLOG-POST-LIST:START -->
  - 👀  [Exploratory Data Analysis: A Step-by-Step Approach](https://dev.to/shreya/exploratory-data-analysis-a-step-by-step-approach-11dd)
