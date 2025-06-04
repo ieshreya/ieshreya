@@ -1,18 +1,17 @@
 <!-- [![Profile visited](https://visitor-badge.glitch.me/badge?page_id=shreyalive.visitor-badge&left_color=darkviolet&right_color=indigo)](https://github.com/ieshreya)
  -->
 #### 👋 Hi, I am **Shreya Purohit**. 
-- 🔭 I’m currently working on **my portfolio.**
-- 🌱 Currently learning: **Data Viz & Machine learning.**
-- 🧠 I’m looking to collaborate on **technical articles.** 
-- 📫 How to reach me: **shreya.purohit002@gmail.com**
+- I’m currently working on **my portfolio.**
+- Currently learning: **Data Viz & Machine learning.**
+- I’m looking to collaborate on **technical articles.** 
+- How to reach me: **shreya.purohit002@gmail.com**
  
 
 #### 👩‍💻 Tech Stack
 _Python | SQL | Tableau | Web scraping_
- - 🔍 **Data analysis:** NumPy, Pandas, SciPy, Time series analysis
- - 📊 **Data visualization:** Matplotlib, Seaborn, Plotly, Bokeh, Geoplotlib, GGPlot
- - ✅ **Skills:** Stats (Hypothesis testing, A/B testing), NLP
- - 🐻 **Interests:** R, Machine learning and web design
+ - **Data analysis:** NumPy, Pandas, SciPy, Time series analysis
+ - **Data visualization:** Matplotlib, Seaborn, Plotly, Bokeh, Geoplotlib, GGPlot
+ - **Skills:** Stats (Hypothesis testing, A/B testing), NLP
 
 #### 🌍 Find me on web
 [@eyeshreya](https://twitter.com/eyeshreya) | [LinkedIn](https://www.linkedin.com/in/shreya-purohit/) | [Hashnode](designctivity.hashnode.dev) | [Portfolio](https://shreyapurohit.now.sh)
@@ -25,7 +24,7 @@ _Python | SQL | Tableau | Web scraping_
 --->
 #### 📑 Recent Posts
 <!-- BLOG-POST-LIST:START -->
- - 👀  [Exploratory Data Analysis: A Step-by-Step Approach](https://dev.to/shreya/exploratory-data-analysis-a-step-by-step-approach-11dd)
- - 🎉  [Learn data analysis for free - A Study Plan](https://dev.to/shreya/learn-data-analysis-for-free-from-youtube-study-plan-l5g)
- - 🎃  [Resources that will help you get started as a Technical Writer](https://dev.to/shreya/resources-that-will-can-help-you-get-started-as-a-technical-writer-l72)
- - 🎉  [Learn TailwindCSS: Make A Profile Card](https://dev.to/shreya/learn-tailwindcss-make-a-profile-card-597d)<!-- BLOG-POST-LIST:END -->
+- [A Brief Guide to Time Series Analysis](https://talent500.com/blog/a-brief-guide-to-time-series-analysis/)
+- [SQL Query Optimization: Techniques to Save Time](https://talent500.com/blog/sql-query-optimization-techniques-to-save-time/)
+- [Advanced Data Wrangling Techniques with SQL](https://talent500.com/blog/advanced-data-wrangling-techniques-with-sql/)
+- [Linear Regression Analysis](https://talent500.com/blog/linear-regression-analysis-a-beginners-guide/)
