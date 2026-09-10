@@ -1,19 +1,20 @@
 <!-- [![Profile visited](https://visitor-badge.glitch.me/badge?page_id=shreyalive.visitor-badge&left_color=darkviolet&right_color=indigo)](https://github.com/ieshreya)
  -->
-#### 👋 Hi, I am **Shreya Purohit**. 
-- I’m currently working on **my portfolio.**
-- Currently learning: **Data Viz & Machine learning.**
-- I’m looking to collaborate on **technical articles.** 
-- How to reach me: **shreya.purohit002@gmail.com**
- 
+#### Hi, I am **Shreya Purohit**. 
+- Currently working on data analytics projects and professional development.
+- Interested in data analysis, business intelligence, and data storytelling.
+- Open to collaborating on data analytics and technical writing projects.
+- How to reach me: [shreyapurohit.now.sh/contact](https://shreyapurohit.vercel.app/contact.html)
 
-#### 👩‍💻 Tech Stack
-_Python | SQL | Tableau | Web scraping_
- - **Data analysis:** NumPy, Pandas, SciPy, Time series analysis
- - **Data visualization:** Matplotlib, Seaborn, Plotly, Bokeh, Geoplotlib, GGPlot
- - **Skills:** Stats (Hypothesis testing, A/B testing), NLP
+#### Tech Stack
+_Python | SQL | Power BI | Tableau_
+- **Data analysis**: Pandas, NumPy, Exploratory Data Analysis, Time Series Analysis
+- **Data visualization & BI**: Power BI, DAX, Tableau, Matplotlib, Seaborn
+- **Data & analytics**: ETL, Star Schema Data Modeling, Hypothesis Testing, Data Storytelling
+- **Other**: SQLAlchemy, BeautifulSoup, Git, GitHub
 
-#### 🌍 Find me on web
+
+#### Find me on web
 [@eyeshreya](https://twitter.com/eyeshreya) | [LinkedIn](https://www.linkedin.com/in/shreya-purohit/) | [Hashnode](designctivity.hashnode.dev) | [Portfolio](https://shreyapurohit.now.sh)
 
 <!--- - 🐤 [@eyeshreya](https://twitter.com/eyeshreya): Where I share threads on data w/ 14K+ people.
@@ -22,7 +23,7 @@ _Python | SQL | Tableau | Web scraping_
 - 👩‍💻 [Portfolio Website](https://shreyapurohit.now.sh): That is currently a WIP
 - 🚀 [Gumroad](https://shry.gumroad.com/): Where I curate, build & share digital products.
 --->
-#### 📑 Recent Posts
+#### Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [A Brief Guide to Time Series Analysis](https://talent500.com/blog/a-brief-guide-to-time-series-analysis/)
 - [SQL Query Optimization: Techniques to Save Time](https://talent500.com/blog/sql-query-optimization-techniques-to-save-time/)
